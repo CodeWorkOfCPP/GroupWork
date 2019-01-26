@@ -1,7 +1,7 @@
 Task:
-      1. writing a essay about what is oop program in your eyes?
+      1. writing a essay about what is 'class' in your eyes?
       
-      2. code a class that you want come true ,design by C++ in VS2017 or Xcode.
+      2. code a class that you want come true,design by C++ in VS2017 or Xcode.
       
 Hint: the capability of design is more important than skill.
                     
